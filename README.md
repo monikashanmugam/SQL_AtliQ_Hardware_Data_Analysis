@@ -1,7 +1,7 @@
 # SQL_AtliQ_Hardware_Data_Analysis
 
-This project utilized the customers, markets, dates, products, and transactions sales data tables from AtliQ Hardware. By analyzing sales data, I was able to discover patterns, trends, and insights that can be used to make business decisions.
+In this project, I analyzed sales data from AtliQ Hardware's customers, markets, dates, products, and transactions tables. By analyzing the data, I uncovered key patterns, trends, and actionable insights that can be used to inform business decisions.
 
-I used MySQL Workbench to import the Excel files into a SQL database on my local machine to continue with the analysis. [Code](https://github.com/monikashanmugam/SQL_AtliQ_Hardware_Data_Analysis/blob/main/AtliQ-Hardware_Data_Analysis.sql)
+Leveraging my skills in MySQL Workbench, I imported the Excel files into a SQL database on my local machine for further analysis.[Code](https://github.com/monikashanmugam/SQL_AtliQ_Hardware_Data_Analysis/blob/main/AtliQ-Hardware_Data_Analysis.sql)
 
-And worked in PowerBi using data from SQL Database, using ETL methodology, created date tables using Power Qury, establishing data model relationship with Power Pivot, created a calculated columns using DAX.
+I then transitioned to Power BI, where I built robust date tables using Power Query, ensuring accurate data analysis. Following the ETL methodology, I established data model relationships with Power Pivot and created calculated columns using DAX. Finally, I designed various compelling visualizations in Power BI to effectively communicate the analyzed data.
