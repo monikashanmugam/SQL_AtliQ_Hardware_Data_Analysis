@@ -74,6 +74,7 @@ ON t.order_date = d.date
 where YEAR = 2020 and market_code = "Mark001"; 
 
 --Distinct Product that sold in Chennai--
+
 SELECT distinct(product_code) FROM sales.transactions
 where market_code = "Mark001"; 
 
