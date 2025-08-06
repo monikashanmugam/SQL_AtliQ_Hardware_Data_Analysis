@@ -25,7 +25,7 @@ SELECT count(*) FROM sales.customers;
 SELECT * FROM sales.transactions
 where market_code = "Mark001" ;
 
--How many transcations performed in Chennai--
+--How many transcations performed in Chennai--
   
 SELECT COUNT(*) FROM sales.transactions
 where market_code = "Mark001" ;
